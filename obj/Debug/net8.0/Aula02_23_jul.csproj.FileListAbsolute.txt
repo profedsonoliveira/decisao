@@ -1,0 +1,14 @@
+C:\Users\Edson\Desktop\Aula02_23_jul\bin\Debug\net8.0\Aula02_23_jul.exe
+C:\Users\Edson\Desktop\Aula02_23_jul\bin\Debug\net8.0\Aula02_23_jul.deps.json
+C:\Users\Edson\Desktop\Aula02_23_jul\bin\Debug\net8.0\Aula02_23_jul.runtimeconfig.json
+C:\Users\Edson\Desktop\Aula02_23_jul\bin\Debug\net8.0\Aula02_23_jul.dll
+C:\Users\Edson\Desktop\Aula02_23_jul\bin\Debug\net8.0\Aula02_23_jul.pdb
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\Aula02_23_jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\Aula02_23_jul.AssemblyInfoInputs.cache
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\Aula02_23_jul.AssemblyInfo.cs
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\Aula02_23_jul.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\Aula02_23_jul.dll
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\refint\Aula02_23_jul.dll
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\Aula02_23_jul.pdb
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\Aula02_23_jul.genruntimeconfig.cache
+C:\Users\Edson\Desktop\Aula02_23_jul\obj\Debug\net8.0\ref\Aula02_23_jul.dll
